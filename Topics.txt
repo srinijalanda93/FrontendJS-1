@@ -1,0 +1,4 @@
+May 21 2024
+1.DataType and Typecasting
+2.Array and Built-in Methods
+3.Object and CURD operations

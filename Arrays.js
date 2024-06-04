@@ -1,13 +1,15 @@
-/**
- * Arrays in Javascript
+/** https://javascript.info/array
+ * Arrays in Javascript -->to store ordered collections.
  * Compared to other Programming language 
  * Arrays in JS categoried under the object Datatype.
  * Arrays are the collection of data (different datatype HETEROGENOUS)
  * Denoted by [] separated by commas
+ * Creation of array in 2 way using [] ,new Array()
  * follows the Indexing formate from 0 to n-1
  * arr.length (property) gives the Number of elements present in the array
  * OutofBounder,negative indexing --->undefined
  * Nested Indexing are allowed
+ * Last Element accessing using at arr.at(-1) also used for accessing element arr.at(indexNumber)
  * BULIT-IN METHODS
  * ADD ->unshift(front),push(last)
  * REMOVE ->shift(front) ,pop(last) -->returns the deleted values
